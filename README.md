@@ -1,0 +1,2 @@
+# Burn-severity-classification-via-texture-analysis-and-supervised-learning
+This repository contains the implementation of an automated framework for burn severity classification based on medical image analysis, texture feature extraction, and supervised machine learning methods. The proposed approach focuses on interpretable feature-based modeling and includes the full pipeline from image preprocessing to classification.
