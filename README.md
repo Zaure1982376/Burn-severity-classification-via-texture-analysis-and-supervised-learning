@@ -36,7 +36,7 @@ This step produces:
 
 5. Feature Selection and Classification
 After preprocessing:
-- Apply feature selection (ANOVA, Fisher, ReliefF)
+- Apply feature selection (ANOVA, Fisher, Relief and other selection methods)
 - Train classification models (KNN, Random Forest, MLP, etc.)
 
 Notes
