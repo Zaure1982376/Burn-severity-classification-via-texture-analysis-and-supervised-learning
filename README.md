@@ -35,7 +35,7 @@ This step produces:
 After preprocessing: - Apply feature selection (ANOVA, Fisher, ReliefF) - Train classification models (KNN, Random Forest, MLP, etc.)
 
 Notes
-Ensure file paths are correctly set\ Maintain consistent class labels\ Use a fixed random seed (e.g., 42) for reproducibility
+Ensure file paths are correctly set\ Maintain consistent class labels\ Use a fixed random seed (e.g., 100) for reproducibility
 
 Citation
 If you use this work, please cite: Accurate burn severity classification via texture analysis and supervised learning
