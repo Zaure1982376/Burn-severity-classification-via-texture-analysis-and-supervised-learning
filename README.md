@@ -35,7 +35,9 @@ This step produces:
     DATA_TEST.csv
 
 5. Feature Selection and Classification
-After preprocessing: - Apply feature selection (ANOVA, Fisher, ReliefF) - Train classification models (KNN, Random Forest, MLP, etc.)
+After preprocessing:
+- Apply feature selection (ANOVA, Fisher, ReliefF)
+- Train classification models (KNN, Random Forest, MLP, etc.)
 
 Notes
 Ensure file paths are correctly set\ Maintain consistent class labels\ Use a fixed random seed (e.g., 100) for reproducibility
