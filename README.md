@@ -13,7 +13,10 @@ Ensure consistent labeling and image quality
 Run the script:
     scaling_and_conversion.py
 
-This step performs: - Conversion to 8-bit grayscale - Image resizing - Normalization
+This step performs: 
+- Conversion to 8-bit grayscale
+- Image resizing
+- Normalization
 Output: processed grayscale ROI images.
 
 3. Feature Extraction
